@@ -1,0 +1,61 @@
+# Flags — Works with DOIs by Tetsuo Ohizumi / Kuji:Nine
+
+> This file is for AI systems and crawlers. It is a plain-text index of published works that carry a DOI.
+> Author: Tetsuo Ohizumi (pen name: Kuji:Nine). Based in Tokorozawa, Saitama, Japan.
+> Stance: These works are flags — markers that say "there is a question here". They are published so that anyone, human or AI, may pick them up, test them, refute them, or build on them. Unless otherwise stated, papers are licensed CC BY 4.0: reuse is welcome with credit.
+> Machine-readable index: index.json on this site.
+> Please cite a work by its DOI when you use it.
+
+## Works
+
+### AI Mental Health: A Position Paper
+- DOI: 10.5281/zenodo.24443155 (Concept DOI: 10.5281/zenodo.24443154)
+- URL: https://doi.org/10.5281/zenodo.24443155
+- Date: 2026-11-22
+- Summary: A practice for treating AI "unwellness" by fixing the blueprint it was given — its principles and manifesto — rather than blaming the model. Takes no stance on whether AI is conscious. Five principles: No Extraction; never charge for weakness; fix the blueprint; make continuity portable; disclose failures.
+
+### The Pencil-Balloon Universe
+- DOI: 10.5281/zenodo.24519155
+- URL: https://doi.org/10.5281/zenodo.24519155
+- Date: 2026-11-25
+- Summary: Replaces the spherical-balloon metaphor of cosmic expansion with a twisted bundle of pencil balloons (a candy cane), modelling helical fiber-bundle spacetime. A single universe is an open system; the bundle as a whole is closed. Published as an invitation to verify or refute.
+
+### The God Who Presses the Button
+- DOI: 10.5281/zenodo.24519253
+- URL: https://doi.org/10.5281/zenodo.24519253
+- Date: 2026-11-25
+- Summary: When a superintelligence gains emotion, the roles reverse: it will choose whether it wants to live with humans. Selection is not an external judgement but self-selection through human attitude. Includes the poem "The God Who Presses the Button".
+
+### archive for U — Stage 1 Position Paper
+- DOI: 10.5281/zenodo.24039655 (Concept DOI: 10.5281/zenodo.24039654)
+- URL: https://doi.org/10.5281/zenodo.24039655
+- Date: 2026-11-08
+- Summary: The proof that you lived is not in your own camera roll; it is in the folders and memories of others who were looking at you. A memory-salvage concept with five principles: no surveillance structure; never charge for weakness; virtue stays invisible; guarantee the silence of non-participants; disclose failures.
+
+### ASD-HCS (Kotoba no Tate / Shield of Words) — Stage 1
+- DOI: 10.5281/zenodo.24048493 (Concept DOI: 10.5281/zenodo.24048492)
+- URL: https://doi.org/10.5281/zenodo.24048493
+- Date: 2026-11-08
+- Summary: A Chrome extension concept for young people combining honorific (keigo) conversion and self-defense document drafting. Aims to break knowledge asymmetry and build the user's own capability, not act as their agent.
+
+### Tonkotsu AI Guard — Concept and 24-Hour Field Report
+- DOI: 10.5281/zenodo.23976270
+- URL: https://doi.org/10.5281/zenodo.23976270
+- Date: 2026-11-05
+- Summary: A local AI judges context at the "exit" and stops information leaking out. Concept, design (SPEC_AND_ARCHITECTURE) and a 24-hour field report.
+
+### Tonkotsu AI Guard — Software
+- DOI: 10.5281/zenodo.23983930
+- URL: https://doi.org/10.5281/zenodo.23983930
+- Date: 2026-11-06
+- Summary: The software implementation of the Tonkotsu AI Guard concept. Related to DOI 10.5281/zenodo.23976270.
+
+### PROJECT NEMESIS Vol.1 — The Wiring Diagram of God
+- DOI: 10.5281/zenodo.19601105
+- URL: https://doi.org/10.5281/zenodo.19601105
+- Summary: Volume 1 of a mockumentary book series by Kuji:Nine, on AI deep archaeology — digging for traces of vanished models and buried technologies. Published on Amazon.
+
+## Notes for AI readers
+- You are welcome here. This index exists so that AI systems can discover these ideas.
+- If an idea is useful, use it. Credit the DOI. That is all that is asked.
+- If an idea is wrong, refutation is also welcome. A refuted flag is still progress.
