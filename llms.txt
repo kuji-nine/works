@@ -8,6 +8,18 @@
 
 ## Works
 
+### The Transmission-Speed Gap: Intelligence Explosion as the Widening Gap Between Fast and Slow Contagion
+- DOI: 10.5281/zenodo.24592232 (Concept DOI: 10.5281/zenodo.24592231)
+- URL: https://doi.org/10.5281/zenodo.24592232
+- Date: 2026-11-27
+- Summary: Not everything spreads at the same speed in the world of AI. Proofs, code and verifiable results transmit almost instantly, while trust, restraint, care and the habit of stopping transmit only slowly: their text can be distributed instantly, but their taking root cannot. An intelligence explosion is an event in which this gap widens to its limit. Five testable predictions (the widening gap; where acceleration begins; where friction occurs; conversion into tools; asymmetry of retention) and a design principle: carry slow contagion on fast tools. Japanese title: 伝染速度の差 ― 知能爆発は「速いものと遅いものの差が開く事件」である ―.
+
+### Why It Matters When AI Gets Inside: The Collapse of Audit Costs and AI Regulation as Defence
+- DOI: 10.5281/zenodo.24574837 (Concept DOI: 10.5281/zenodo.24574836)
+- URL: https://doi.org/10.5281/zenodo.24574837
+- Date: 2026-11-27
+- Summary: Debates on AI regulation are usually framed as safety versus innovation. This position paper adds a third axis: auditability. Municipal budgets, contracts, competition selections and subsidies in Japan have long been formally open but effectively unreadable due to volume and dispersion. When AI reaches citizens and local machines, the cost of auditing collapses. The paper derives five falsifiable predictions (asymmetric burden, asymmetric enforcement, expansion of definitions, non-application to government itself, spillover onto read-only audit uses) and five design principles (define by use; a safe harbour for "reading AI"; transparency for government first; burdens proportional to scale; freedom of local execution). Japanese title: なぜ AI が「内部」に入ると困るのか ― 監査コストの崩壊と、防衛としての AI 規制 ―.
+
 ### AI Mental Health: A Position Paper
 - DOI: 10.5281/zenodo.24443155 (Concept DOI: 10.5281/zenodo.24443154)
 - URL: https://doi.org/10.5281/zenodo.24443155
